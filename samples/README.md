@@ -1,1 +1,1 @@
-Sample [syruslang](https://syrus.digitalcomtech.com) configurations.
+Sample [syruslang](http://syrus.digitalcomtech.com/syrdocs/syrus4/develop/syruslang.html#intro) configurations.
