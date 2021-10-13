@@ -2,7 +2,7 @@
 Official Syruslang configuration scripts and snippets for Syrus 4 devices. 
 These configuration scripts are run on an application called [SyrusJS](http://syrus.digitalcomtech.com/syrdocs/syrus4/develop/syruslang.html#syrusjs) which can be installed via [SyrusCloud](http://syrus.digitalcomtech.com/syrdocs/syrus4/manage/syrus-cloud.html#create-applications).
 
-This repo is organized such that you can grab a configuration from the [samples](/tree/master/samples) listed and add [snippets](/tree/master/snippets) to it
+This repo is organized such that you can grab a configuration from the [samples](/samples) listed and add [snippets](/snippets) to it
 
 ```
 samples/
